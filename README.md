@@ -1,7 +1,7 @@
 # 🏥 Clinical Knowledge Assistant (Health-RAG)
 
 ## 📌 The Real-World Problem
-In fast-paced clinical environments, nurses and junior doctors waste critical minutes searching through hundreds of pages of dense clinical guidelines (PDFs) and scattered hospital intranet pages to find specific protocols—such as **[INSERT YOUR CHOSEN DOMAIN HERE, e.g., Sepsis Screening Protocols]**. This delay in retrieving accurate, up-to-date information can lead to delayed care and potential medical errors.
+In fast-paced clinical environments, nurses and junior doctors waste critical minutes searching through hundreds of pages of dense clinical guidelines (PDFs) and scattered hospital intranet pages. This delay in retrieving accurate, up-to-date information can lead to delayed care and potential medical errors.
 
 ## 💡 The Solution
 This project builds a Retrieval-Augmented Generation (RAG) pipeline that acts as a **Clinical Knowledge Assistant**. It ingests unstructured medical guidelines, structures them using a Data Engineering ETL approach, and allows clinical staff to ask plain-English questions to get instant, cited answers from official hospital protocols.
